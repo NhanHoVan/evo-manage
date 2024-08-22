@@ -1,0 +1,11 @@
+# Ignoring node_modules directory
+node_modules/
+
+# Ignoring build output directory
+dist/
+
+# Ignoring Git directory
+.git/
+
+# Ignoring environment file
+.env

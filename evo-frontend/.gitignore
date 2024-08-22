@@ -1,0 +1,15 @@
+# Ignoring node_modules directory
+node_modules/
+
+# Ignoring build output directories
+dist/
+dist-ssr/
+
+# Ignoring macOS system file
+.DS_Store
+
+# Ignoring local environment files
+*.local
+
+# Ignoring zip files
+*.zip
